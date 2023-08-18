@@ -1,0 +1,1 @@
+Make a folder named "imageAttendance" and drop the photos of subjects in it , making sure its in jpg format.
